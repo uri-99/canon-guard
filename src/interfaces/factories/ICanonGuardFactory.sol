@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.30;
+pragma solidity >=0.8.30;
 
 import {ICreateX} from 'interfaces/external/ICreateX.sol';
 import {IFactory} from 'interfaces/factories/IFactory.sol';
